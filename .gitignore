@@ -1,0 +1,4 @@
+.DS_Store
+.vagrant
+gen-*
+bin/install_thrift_all_langs.sh
