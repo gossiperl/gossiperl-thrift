@@ -12,4 +12,4 @@ fi
 
 echo "Installing Thrift:"
 cd /vagrant/bin/
-./install_thrift_all_langs.sh
+./install_thrift_all_langs.sh 2>&1 | tee /var/log/thrift-install.log

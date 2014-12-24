@@ -1,6 +1,7 @@
 namespace erl gossiperl
 namespace rb gossiperl.client.thrift
 namespace java com.gossiperl.client.thrift
+namespace csharp Gossiperl.Client.Thrift
 #namespace hs gossiperl
 
 struct DigestEnvelope {
