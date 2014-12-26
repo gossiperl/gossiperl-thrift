@@ -2,7 +2,10 @@ namespace erl gossiperl
 namespace rb gossiperl.client.thrift
 namespace java com.gossiperl.client.thrift
 namespace csharp Gossiperl.Client.Thrift
-#namespace hs gossiperl
+namespace py gossiperl.client.thrift
+namespace js Gossiperl.Client.Thrift
+namespace cpp gossiperl.client.thrift
+namespace hs gossiperl
 
 struct DigestEnvelope {
   1: required string payload_type;
